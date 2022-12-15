@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2E0EC5933A955732A66A0E3046F8478F",
+  "keywordClasses": [
+    {
+      "name": "clients_manager.add_client",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

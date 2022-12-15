@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View Salary Details</name>
+   <tag></tag>
+   <elementGuidId>05f4c02e-4be0-4f8e-b92a-345b35957d89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[3]/div/div/div[2]/div[2]/div[2]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0fa87956-83e7-4504-8b64-6cdb24fccb45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>8439bb69-15da-4a55-823e-6745754bac1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Salary Details</value>
+      <webElementGuid>c3d4013a-1434-4021-b8f7-5cf3979bda9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[@class=&quot;card-data-container&quot;]/div[@class=&quot;mid-card-data flex-grow-1&quot;]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-title&quot;]/div[1]/button[@class=&quot;p-button p-component p-button-sm p-button-outlined&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>b18b3d8e-d7ab-4881-b774-74ee35a0cafd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div/div[2]/div[2]/div[2]/div/div/div/button/span</value>
+      <webElementGuid>cd5c3577-409a-4420-98e8-be567062486b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salary Overview'])[1]/following::span[1]</value>
+      <webElementGuid>db0d5601-88dd-4171-aac8-dd04bcdb11e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Rate'])[1]/following::span[2]</value>
+      <webElementGuid>15fd911e-5e3f-42f1-ad63-25b9d92a0c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[1]/preceding::span[2]</value>
+      <webElementGuid>ee13eab2-5af6-4952-bc05-b24e59e33a03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/preceding::span[3]</value>
+      <webElementGuid>f2f8f944-7e17-42c6-8964-4cca3efb7c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Salary Details']/parent::*</value>
+      <webElementGuid>99db353e-308f-49a0-86a9-b09185dec8a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/button/span</value>
+      <webElementGuid>05cabcac-bade-4f7e-ac7e-8667f192752a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View Salary Details' or . = 'View Salary Details')]</value>
+      <webElementGuid>07c7c45b-a94c-4f25-9296-797453aba2f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

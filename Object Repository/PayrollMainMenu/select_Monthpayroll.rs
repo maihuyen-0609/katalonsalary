@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Monthpayroll</name>
+   <tag></tag>
+   <elementGuidId>276ca266-c48c-46e5-b0a8-d0079755e677</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='p-calendar p-component p-inputwrapper w-full p-calendar-w-btn']//input[@type='text']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-icon-only.p-datepicker-trigger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>02436249-3c3f-4082-9f99-c74f83dc9abb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-button-icon-only p-datepicker-trigger</value>
+      <webElementGuid>54f09bdc-c232-43e4-89fe-2ebb2d54b1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7b43d000-7f87-4c71-9f12-42a32ca8ed82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>16f3b5b7-e738-48ae-9389-e61524aeaaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>dc3ba2f7-9b2f-4837-a297-fc7d63fe702a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dialog-mask p-component-overlay p-component-overlay-enter&quot;]/div[@class=&quot;p-dialog p-component p-fluid&quot;]/div[@class=&quot;p-dialog-content&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;field p-input-icon-right mr-2 w-4&quot;]/span[@class=&quot;p-calendar p-component p-inputwrapper w-full p-calendar-w-btn&quot;]/button[@class=&quot;p-button p-component p-button-icon-only p-datepicker-trigger&quot;]</value>
+      <webElementGuid>405b1849-c1eb-401e-b884-a306d6aee0c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[58]</value>
+      <webElementGuid>97c21374-10f1-43b7-b6b5-19314545d6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Month'])[1]/following::button[1]</value>
+      <webElementGuid>cbee17c3-bfa0-4e38-865b-1581e0467642</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create payroll'])[1]/following::button[3]</value>
+      <webElementGuid>56423c62-71cf-4457-9e07-b6e8bce0104d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Group name'])[1]/preceding::button[1]</value>
+      <webElementGuid>62860c22-baf0-479d-84d3-5905d59dba55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div/span/button</value>
+      <webElementGuid>62048dfb-afc2-45dc-90dd-2fca346886de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' ' or . = ' ')]</value>
+      <webElementGuid>e961b09f-72c7-4837-9c14-8be1248354a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

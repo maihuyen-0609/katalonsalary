@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_200Success</name>
+   <tag></tag>
+   <elementGuidId>2ec0be5e-ea66-45e9-91eb-8e7a529a8fec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2021'])[1]/following::div[17]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-toast-message-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ac4376a-9d80-4542-b56a-d1ce26d461d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-toast-message-content</value>
+      <webElementGuid>2eaa1ff8-867b-4689-8ac8-1150dc791d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>200Success</value>
+      <webElementGuid>6ff90db6-bc41-414d-a705-39c5b52f1f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;p-toast p-component p-toast-top-right&quot;]/div[1]/div[@class=&quot;p-toast-message p-toast-message-success&quot;]/div[@class=&quot;p-toast-message-content&quot;]</value>
+      <webElementGuid>0b4c43ce-42c5-4bb5-b65f-839b78f79c34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2021'])[1]/following::div[17]</value>
+      <webElementGuid>242b685b-0e2e-4d57-b965-432b82ca0f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2022'])[1]/following::div[26]</value>
+      <webElementGuid>c4463602-feb5-4db4-b388-5abe3a330c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>7acac5ac-82e8-4118-bc45-c5675059ece4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '200Success' or . = '200Success')]</value>
+      <webElementGuid>2c53e488-d0dd-4bff-bd6b-6cd0a0e84d52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

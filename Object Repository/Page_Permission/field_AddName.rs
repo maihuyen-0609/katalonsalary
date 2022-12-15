@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_AddName</name>
+   <tag></tag>
+   <elementGuidId>c50528ef-2bb7-47b3-95e8-e0dd46f09ffc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.relative > input.p-inputtext.p-component</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3f5f2a9d-947d-46b0-b8ab-a1d1edd985bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component</value>
+      <webElementGuid>4e46d9aa-855c-445e-aace-3ed68c4d7125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>modelmodifiers</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>86540e0a-0831-453a-a316-0099166763d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dialog-mask p-component-overlay p-component-overlay-enter&quot;]/div[@class=&quot;p-dialog p-component p-fluid&quot;]/div[@class=&quot;p-dialog-content&quot;]/div[@class=&quot;field p-input-icon-right&quot;]/span[@class=&quot;relative&quot;]/input[@class=&quot;p-inputtext p-component&quot;]</value>
+      <webElementGuid>9685b6de-9653-476c-ab5f-578d41af732e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/input</value>
+      <webElementGuid>fbad3a24-404d-4fb1-8f69-8d429b45b128</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

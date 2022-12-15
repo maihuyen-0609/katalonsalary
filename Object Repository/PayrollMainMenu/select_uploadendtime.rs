@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_uploadendtime</name>
+   <tag></tag>
+   <elementGuidId>89b43342-ad38-4420-930c-b4bfe15a0aa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-calendar.p-component.p-inputwrapper.p-calendar-w-btn.p-inputwrapper-focus > input.p-inputtext.p-component</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4dbcf0cd-71db-4ef7-b31c-2f663dda4bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>8f2bdcce-3b68-4ad7-8c4b-4f618f060091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component</value>
+      <webElementGuid>d7f34cce-52dd-42ab-8cd2-2d6a04cbfc2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>inputmode</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>69320bb9-226c-4ae0-bdce-5581f7afed6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dialog-mask p-component-overlay p-component-overlay-enter&quot;]/div[@class=&quot;p-dialog p-component p-fluid&quot;]/div[@class=&quot;p-dialog-content&quot;]/div[@class=&quot;field p-input-icon-right&quot;]/span[@class=&quot;relative&quot;]/span[@class=&quot;p-calendar p-component p-inputwrapper p-calendar-w-btn p-inputwrapper-focus&quot;]/input[@class=&quot;p-inputtext p-component&quot;]</value>
+      <webElementGuid>29abfdde-3046-4e64-a5de-a72133c47a70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>654d4835-2932-485a-b1a7-762498960ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/input</value>
+      <webElementGuid>eb7931cb-70ea-4f76-9e75-e912897bcc12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>b8bd0329-9202-484b-b726-f066ed45e92c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>noti_SuccessDeleted successfully</name>
+   <tag></tag>
+   <elementGuidId>dac9f9a6-e90e-40d3-aa44-26838de77a9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[normalize-space()='Success']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-toast-message-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7eed17bf-19a4-43c8-808d-33f0c0b57ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-toast-message-content</value>
+      <webElementGuid>47473f0d-8b5b-4fba-ae2c-09969684093e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SuccessDeleted successfully!</value>
+      <webElementGuid>40abb869-96f7-4577-b1fc-2cbd3409e0a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;p-toast p-component p-toast-top-right&quot;]/div[1]/div[@class=&quot;p-toast-message p-toast-message-success&quot;]/div[@class=&quot;p-toast-message-content&quot;]</value>
+      <webElementGuid>2caa5f1b-d9b4-46e2-a23f-bbb41f018781</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2021'])[1]/following::div[17]</value>
+      <webElementGuid>8b5fd39d-4240-43f9-8e8d-6c5963c255f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2022'])[1]/following::div[26]</value>
+      <webElementGuid>b4414c82-95b7-433c-ae41-94e4e0442a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>112225ca-6784-4f8d-9019-7c7e7db67192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SuccessDeleted successfully!' or . = 'SuccessDeleted successfully!')]</value>
+      <webElementGuid>7584792b-7735-4449-97cd-e582e8adf46a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

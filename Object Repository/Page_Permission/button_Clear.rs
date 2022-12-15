@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Clear</name>
+   <tag></tag>
+   <elementGuidId>d0dfabc8-7cac-4183-8f50-18baa80177bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-outlined.p-button-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='p-button p-component p-button-outlined p-button-sm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cd13b0af-7188-444e-8a63-d82f17bfcedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-button-outlined p-button-sm</value>
+      <webElementGuid>50d89a01-d369-4df1-9236-04523e9eb7a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>69f1d78a-ccbb-4d94-89cc-a1043dbe5268</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clear</value>
+      <webElementGuid>6fbd0f2a-babf-46c2-a97e-6e2350df3f15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@class=&quot;p-column-filter-overlay p-component p-fluid p-column-filter-overlay-menu&quot;]/div[@class=&quot;p-column-filter-buttonbar&quot;]/button[@class=&quot;p-button p-component p-button-outlined p-button-sm&quot;]</value>
+      <webElementGuid>963f3c65-d70c-4a84-9ea0-9942fd47a264</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[51]</value>
+      <webElementGuid>14f9f003-96bf-45ec-9757-3e1b53b81da2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2021'])[1]/following::button[13]</value>
+      <webElementGuid>cdaef309-b0f7-4204-b42b-f4c3adf8ed4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PrimeOne Design - 2022'])[1]/following::button[21]</value>
+      <webElementGuid>152c5a3e-f713-4f91-a8a8-0cbce2d8decf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::button[1]</value>
+      <webElementGuid>4749230b-4cca-4fbc-8b5c-daf37506bb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/button</value>
+      <webElementGuid>dd791a4f-a8d8-44e4-b85e-9030ad55d07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Clear' or . = 'Clear')]</value>
+      <webElementGuid>badb17c8-c123-48b5-a246-f55ab98eb645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

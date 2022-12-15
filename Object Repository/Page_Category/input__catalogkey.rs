@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__catalogkey</name>
+   <tag></tag>
+   <elementGuidId>46cc57bc-36b7-4a2d-bfb2-7de8f316bba6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eeafef80-f7da-4f43-9e88-f68cd4f97787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component w-full w-full</value>
+      <webElementGuid>1cbf86a5-2c5b-4123-9bc3-241ee36c6a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c5325d07-ec06-4259-84dc-b26ab7fda3d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>[0-9 alpha] Don't input space Ex: category.catalogExample</value>
+      <webElementGuid>81badd18-b1cb-4d28-a62c-aab3202b5703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dialog-mask p-component-overlay p-component-overlay-enter&quot;]/div[@class=&quot;p-dialog p-component w-4&quot;]/div[@class=&quot;p-dialog-content&quot;]/div[@class=&quot;pl-5 pr-5&quot;]/div[@class=&quot;field&quot;]/input[@class=&quot;p-inputtext p-component w-full w-full&quot;]</value>
+      <webElementGuid>7bf1939f-baeb-4d61-bedb-b9dfcddca19e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[4]</value>
+      <webElementGuid>b3bde882-7b95-4323-875d-bfe71df4f3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>77de9d58-e76b-44b4-aeae-9f06d08bf848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = concat(&quot;[0-9 alpha] Don&quot; , &quot;'&quot; , &quot;t input space Ex: category.catalogExample&quot;)]</value>
+      <webElementGuid>2c941679-b70d-4741-824d-e845aeed09d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "60DD4ACB705F4C04D35A039196F7AC62",
+  "keywordClasses": [
+    {
+      "name": "clients_manager.edit_client",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

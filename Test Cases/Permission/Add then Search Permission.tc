@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add then Search Permission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b1156ef-ec56-4868-8924-0ebdc7148858</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4665e565-3896-4b02-acc2-eb9382832b9e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2af71c0c-309d-4784-8d1a-81ed505fb12a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc9c038e-d42d-4e10-8658-062cc5e12c8c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Mina1'</defaultValue>
+      <description></description>
+      <id>4665e565-3896-4b02-acc2-eb9382832b9e</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mina1'</defaultValue>
+      <description></description>
+      <id>2af71c0c-309d-4784-8d1a-81ed505fb12a</id>
+      <masked>false</masked>
+      <name>PermissionName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mina1'</defaultValue>
+      <description></description>
+      <id>cc9c038e-d42d-4e10-8658-062cc5e12c8c</id>
+      <masked>false</masked>
+      <name>Remark</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textfield_Mina1</name>
+   <tag></tag>
+   <elementGuidId>fe851b67-2ece-4ec3-b7c7-3bd150b69346</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Not configured'])[1]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.align-items-center.mb-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b19d099-3bc0-4b0d-9b1a-4bff4ac13d08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex align-items-center mb-3</value>
+      <webElementGuid>d724eb2b-5351-409c-bd63-634a2f0383c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mina1</value>
+      <webElementGuid>89bcaf3f-cc56-461c-b542-61bdd50813b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-sidebar p-component p-sidebar-right p-sidebar-active route-sidebar&quot;]/div[@class=&quot;p-sidebar-content&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-5 md:col-12 lg:col-5&quot;]/div[@class=&quot;main p-2&quot;]/div[@class=&quot;content-form mt-2 p-2&quot;]/div[@class=&quot;flex align-items-center mb-3&quot;]</value>
+      <webElementGuid>36882208-0bf8-4253-bbb1-f3a3edd8e869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not configured'])[1]/following::div[5]</value>
+      <webElementGuid>2004f8c4-9cbd-46f9-bfa1-e93519b59d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remark'])[12]/following::div[13]</value>
+      <webElementGuid>869e8885-9593-4296-b8bd-5cff0711e87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configured'])[1]/preceding::div[9]</value>
+      <webElementGuid>df3f1f48-a948-4479-8dc0-e65e24bba606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[2]/div/div/div[3]/div</value>
+      <webElementGuid>ef479322-c16e-4170-95e7-22e015534e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Mina1' or . = 'Mina1')]</value>
+      <webElementGuid>8acbdd12-7072-4516-87e8-278bc55e5b0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,53 @@
+{
+  "keywordFileContentHash": "4BF279923564B62D95BD7BDC657BE9CE",
+  "keywordClasses": [
+    {
+      "name": "customMethod.LoginPage",
+      "keywordMethods": [
+        {
+          "name": "loginCRM1",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginCRM2",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "loginCRM3",
+          "parameters": [
+            {
+              "name": "email",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "pass",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

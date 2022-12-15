@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_My Reported Errors</name>
+   <tag></tag>
+   <elementGuidId>5a7395cc-2846-4127-a1d7-baa58cab997a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[3]/div/div/div/div/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pi.pi-arrow-circle-left.p-button-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7770b818-eae2-4a63-a7a7-52bf29862363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-arrow-circle-left p-button-icon</value>
+      <webElementGuid>ce0347f4-8bbd-4735-8316-b7619ef2e7b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[1]/div[@class=&quot;p-toolbar p-component mb-2&quot;]/div[@class=&quot;p-toolbar-group-left&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;table-toolbar flex justify-content-between flex-wrap align-items-center&quot;]/div[@class=&quot;flex&quot;]/button[@class=&quot;p-button p-component p-button-icon-only p-button-rounded p-button-success mr-4&quot;]/span[@class=&quot;pi pi-arrow-circle-left p-button-icon&quot;]</value>
+      <webElementGuid>b96fed05-d865-41cd-a7ba-407ea33bb335</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div/div/div/div/div/div/div/button/span</value>
+      <webElementGuid>ad06418b-2af1-4d73-af87-07dc3b51d1c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>ec7505b6-a800-4722-83ab-641d0a67226f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

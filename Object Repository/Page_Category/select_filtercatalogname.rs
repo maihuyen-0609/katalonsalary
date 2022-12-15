@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_filtercatalogname</name>
+   <tag></tag>
+   <elementGuidId>fa7d81ff-0c8a-4c9e-82cc-a5f2663ba52d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[3]/div/div/div/div[2]/div[3]/div/div/div/div[3]/table/thead/tr/th[2]/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.pi.pi-filter-icon.pi-filter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c11474a1-f8e9-4340-b169-8cd516b53d1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-filter-icon pi-filter</value>
+      <webElementGuid>c7fe69d1-e7df-4335-8b4a-58fbf4631a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[@class=&quot;p-tabview p-component&quot;]/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[1]/div[1]/div[@class=&quot;p-datatable p-component p-datatable-hoverable-rows p-datatable-scrollable p-datatable-scrollable-vertical p-datatable-responsive-stack p-datatable-striped editable-cells-table&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/thead[@class=&quot;p-datatable-thead&quot;]/tr[1]/th[2]/div[@class=&quot;p-column-header-content&quot;]/div[@class=&quot;p-column-filter p-fluid p-column-filter-menu&quot;]/button[@class=&quot;p-column-filter-menu-button p-link&quot;]/span[@class=&quot;pi pi-filter-icon pi-filter&quot;]</value>
+      <webElementGuid>63475119-5c60-499a-940d-e425ae1d58b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div/div/div[2]/div[3]/div/div/div/div[3]/table/thead/tr/th[2]/div/div/button/span</value>
+      <webElementGuid>e28f162e-ee40-456d-ac2b-ad7241162df0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/div/div/button/span</value>
+      <webElementGuid>f86d82d0-9918-4edb-adb1-fbffd5b32945</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

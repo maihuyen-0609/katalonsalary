@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AlgorithmEarning</name>
+   <tag></tag>
+   <elementGuidId>1d0a7178-69f3-4bd7-8790-3e23c73d0640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>347945e4-8238-4bfc-81d8-4bf0318837d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field</value>
+      <webElementGuid>d2840187-adba-4550-b181-d506847cec56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>* AlgorithmEarning ( + )</value>
+      <webElementGuid>6c1858e1-6ca1-4720-ae7b-ecaaa373dfe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[@class=&quot;p-overflow-hidden&quot;]/div[@class=&quot;p-dialog-mask p-component-overlay p-component-overlay-enter&quot;]/div[@class=&quot;p-dialog p-component w-4&quot;]/div[@class=&quot;p-dialog-content&quot;]/div[@class=&quot;pl-5 pr-5&quot;]/div[@class=&quot;field&quot;]</value>
+      <webElementGuid>856b27c8-af45-414c-998f-2c4ddca88185</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[1]</value>
+      <webElementGuid>b6392448-a2c5-4fc6-b22c-2eede22c7632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[4]</value>
+      <webElementGuid>2bd47777-f80b-451f-a08d-755411e5ac32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '* AlgorithmEarning ( + )' or . = '* AlgorithmEarning ( + )')]</value>
+      <webElementGuid>b9c321ca-04ac-4d00-9522-9c97e3fc3bf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

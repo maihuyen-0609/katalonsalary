@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OK to Proceed</name>
+   <tag></tag>
+   <elementGuidId>1d83b3de-1f04-4cdb-98e0-5f26e35ffc66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[48]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-button.p-component.p-button-rounded.p-button-danger.p-button-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>26298b6a-bbe1-456a-bf7f-718df5963de1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-button-rounded p-button-danger p-button-sm</value>
+      <webElementGuid>d47a3180-0a5a-473c-af01-c1cf172e2213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3be8eb1e-db78-40d4-8972-b803279d886e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OK to Proceed</value>
+      <webElementGuid>a285e9e1-cd0d-4d4f-80a8-ed077561e08c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;overlay_panel&quot;)/div[@class=&quot;p-overlaypanel-content&quot;]/div[1]/button[@class=&quot;p-button p-component p-button-rounded p-button-danger p-button-sm&quot;]</value>
+      <webElementGuid>083bbb69-938f-4a83-9e10-5571eb3fb851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[48]</value>
+      <webElementGuid>6f1cb57a-17c7-4e4d-ad72-241d37f89d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='overlay_panel']/div/div/button</value>
+      <webElementGuid>112db93a-041b-4b1b-9a01-7569adae645c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='By confirming below, your upload and submit function for this catalog will be closed'])[1]/following::button[1]</value>
+      <webElementGuid>bbba9b2c-a5dc-4b12-9f89-daa1c20322fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks:'])[1]/following::button[1]</value>
+      <webElementGuid>0938a15b-7909-466f-89aa-e2a6d16f2587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/button</value>
+      <webElementGuid>4ae114c7-a848-4cdb-967a-0f64bbcbf453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'OK to Proceed' or . = 'OK to Proceed')]</value>
+      <webElementGuid>06a6ddff-3d43-459a-823c-4e6f8da74f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu_Payroll Management</name>
+   <tag></tag>
+   <elementGuidId>33deb2c5-a59d-4277-b194-91bc5bde1056</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[2]/div/ul/li[7]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1e2c3a1-a912-479f-8813-af973b9a4aab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple</value>
+      <webElementGuid>d17378ef-f93a-4ffe-bdbc-22046d7ec4db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>menu.salary.payroll</value>
+      <webElementGuid>c1273fc2-e1df-49aa-ac36-e7440e83d99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>c89f14b2-efc4-41de-98b4-9e1b137560af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payroll Management</value>
+      <webElementGuid>c8ca66cf-26a1-4aa1-9ee5-859332b1dd89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;&quot;]/body[1]/div[@id=&quot;app&quot;]/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-sidebar&quot;]/div[@class=&quot;layout-menu-container&quot;]/ul[@class=&quot;layout-menu&quot;]/li[@class=&quot;layout-menuitem-category&quot;]/ul[1]/li[3]/a[@class=&quot;p-ripple&quot;]</value>
+      <webElementGuid>008bd510-09c8-4b5f-86af-b9a2faa4de24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[2]/div/ul/li[7]/ul/li[3]/a</value>
+      <webElementGuid>7f88dff3-f364-4e96-9343-780e849ed38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salary Settings'])[1]/following::a[1]</value>
+      <webElementGuid>6960808e-9978-4a47-8e3d-7859af4994ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salary Management'])[1]/following::a[2]</value>
+      <webElementGuid>f30ae786-82ef-481a-bbd9-d60511a07101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payroll Group'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff3ca3d3-f0a4-4bc9-9b0d-639a7a293c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li[3]/a</value>
+      <webElementGuid>1ebfcd70-15ec-4e0c-b2f9-4d8e5df43cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Payroll Management' or . = 'Payroll Management')]</value>
+      <webElementGuid>c07b1cae-2cda-4b14-a5cf-289b27357c2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

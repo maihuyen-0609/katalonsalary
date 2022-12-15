@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A3F7358D92EA29F2836353FDC6E4253B",
+  "keywordClasses": [
+    {
+      "name": "projects_management.AddProject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

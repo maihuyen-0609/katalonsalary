@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Permission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccd64cf1-ae3a-4132-881e-2cb692bdf36e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9251315-d65b-4aa9-bd91-c82f163fc4ae</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'basic'</defaultValue>
+      <description></description>
+      <id>e9251315-d65b-4aa9-bd91-c82f163fc4ae</id>
+      <masked>true</masked>
+      <name>searchvalue</name>
+   </variable>
+</TestCaseEntity>

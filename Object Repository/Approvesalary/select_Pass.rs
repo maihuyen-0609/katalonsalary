@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pass</name>
+   <tag></tag>
+   <elementGuidId>32a7f64e-716f-4bc7-a3ee-3aa7ab805c70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/div[3]/div/div/div[2]/div/div[3]/table/tbody/tr[2]/td[11]/div/div/button/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.w-full > button.p-button.p-component.p-button-success.m-2.p-2.btn > span.p-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>24754e19-f122-44ea-a80f-a4a1d7cdb5b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button-label</value>
+      <webElementGuid>b740f79b-135a-48a4-9d2b-d90f9587fb83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pass</value>
+      <webElementGuid>7b19c6d2-4c59-4f6b-bdf2-0b1836022ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[1]/div[2]/div[@class=&quot;p-datatable p-component p-datatable-scrollable p-datatable-scrollable-vertical p-datatable-responsive-stack editable-cells-table&quot;]/div[@class=&quot;p-datatable-wrapper&quot;]/table[@class=&quot;p-datatable-table&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[2]/td[@class=&quot;col-operation p-frozen-column&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex w-full&quot;]/button[@class=&quot;p-button p-component p-button-success m-2 p-2 btn&quot;]/span[@class=&quot;p-button-label&quot;]</value>
+      <webElementGuid>d8d9ee8f-3aef-4379-ab24-fda993cf2d02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div/div[2]/div/div[3]/table/tbody/tr[2]/td[11]/div/div/button/span[2]</value>
+      <webElementGuid>8e3621f8-fd5f-43d8-a0ee-f1f51effc88b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval'])[3]/following::span[2]</value>
+      <webElementGuid>40a3ffd0-fc68-41d6-ba6f-21ac0f2477a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Notes'])[3]/following::span[4]</value>
+      <webElementGuid>5577cd49-2d7e-4274-b89a-4b79e9f22e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/preceding::span[3]</value>
+      <webElementGuid>638d15d5-6898-4d53-8d7c-eb5f15643e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[4]/preceding::span[5]</value>
+      <webElementGuid>ea8d0ee6-c214-4423-902e-aef540bbfd00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pass']/parent::*</value>
+      <webElementGuid>64406774-43f1-4a6e-aea6-80bf560fa895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/div/div/button/span[2]</value>
+      <webElementGuid>043aa5d9-50b9-4fbe-a92f-b05db43a80d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pass' or . = 'Pass')]</value>
+      <webElementGuid>3a0d9fce-0134-442d-bbfc-117addfddc51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

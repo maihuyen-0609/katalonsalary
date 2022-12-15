@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload Data</name>
+   <tag></tag>
+   <elementGuidId>c5613c86-acfd-4d32-8fd1-acd99ae034b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='upload-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-button.p-component.p-fileupload-choose.p-button-sm.p-focus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>38ead68e-6e55-46f2-89fb-ae7a52193c02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-button p-component p-fileupload-choose p-button-sm p-focus</value>
+      <webElementGuid>1dd86d59-f2fa-45dd-840e-11f57a525fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6f0cf7d5-096e-4da5-9035-754f018cde84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Data</value>
+      <webElementGuid>b0ee380f-6946-49f9-aca6-be307a56ffaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;layout-wrapper layout-static&quot;]/div[@class=&quot;layout-main-container&quot;]/div[@class=&quot;layout-main&quot;]/div[@class=&quot;p-tabview p-component tab-size&quot;]/div[@class=&quot;p-tabview-panels&quot;]/div[@class=&quot;p-tabview-panel&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;container-content&quot;]/div[1]/div[@class=&quot;upload-display&quot;]/div[@class=&quot;button-container&quot;]/div[@class=&quot;upload-button&quot;]/div[@class=&quot;p-fileupload p-fileupload-basic p-component&quot;]/span[@class=&quot;p-button p-component p-fileupload-choose p-button-sm p-focus&quot;]</value>
+      <webElementGuid>d8bc8911-438e-4562-81ae-59de55648834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/div[3]/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[2]/div/span</value>
+      <webElementGuid>694d6b66-99a6-4ee3-ab8c-424fcaa89e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sync OA Data'])[1]/following::span[2]</value>
+      <webElementGuid>cc4c75f5-580f-4a6b-88b9-2fad7d090ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Sorry, there', &quot;'&quot;, 's no data for this salary item yet, please sync data or upload file.')])[1]/following::span[4]</value>
+      <webElementGuid>0e5c4d92-5c56-485a-ba05-53b927441474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[2]/div/span</value>
+      <webElementGuid>1f3442e6-994f-4b86-a0b7-c099219e2174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Upload Data' or . = 'Upload Data')]</value>
+      <webElementGuid>894f60ee-4200-4599-9f73-28fd454810ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

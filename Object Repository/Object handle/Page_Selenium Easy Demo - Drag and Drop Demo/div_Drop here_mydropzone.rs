@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drop here_mydropzone</name>
+   <tag></tag>
+   <elementGuidId>d154bdb3-dc44-44df-b6a1-6315a9c4a533</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mydropzone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mydropzone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85c68c7d-f488-4b2d-beca-801c32604379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mydropzone</value>
+      <webElementGuid>a5dd2a48-612e-4e4d-af1b-73c9eb36e6bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dropzone</name>
+      <type>Main</type>
+      <value>move</value>
+      <webElementGuid>060457c8-d409-4c39-8c9c-93df596a61f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mydropzone&quot;)</value>
+      <webElementGuid>83d3a3e6-1c62-4f14-8fa1-a4e3939bf2c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='mydropzone']</value>
+      <webElementGuid>faae188e-5cff-4647-a8f8-e23bd4e60e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop here'])[1]/following::div[1]</value>
+      <webElementGuid>880c5566-9efa-4068-9227-54bac2ccc418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draggable 4'])[1]/following::div[2]</value>
+      <webElementGuid>f83e2656-8a0d-401a-bc46-837f05a2ead3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dropped Items List'])[1]/preceding::div[1]</value>
+      <webElementGuid>e1c19f3a-07e9-462e-92cf-e640e04c9123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draggable 1'])[1]/preceding::div[1]</value>
+      <webElementGuid>6df549dd-384b-4e74-947f-e604fd3bba1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>c4ae015f-1e5b-4edd-8258-c380cd978c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'mydropzone']</value>
+      <webElementGuid>1ab6addb-21b1-4338-8234-0650b71235b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "78D9CEE224E2AF17222E9EBD3E549750",
+  "keywordClasses": [
+    {
+      "name": "customMethod.AddPermission",
+      "keywordMethods": [
+        {
+          "name": "addPermission",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

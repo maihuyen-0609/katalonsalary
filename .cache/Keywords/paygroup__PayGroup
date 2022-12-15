@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "12A2AD7FFE9AF82FFB0429F6213444C2",
+  "keywordClasses": [
+    {
+      "name": "paygroup.PayGroup",
+      "keywordMethods": [
+        {
+          "name": "UploadFile",
+          "parameters": [
+            {
+              "name": "FilePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
